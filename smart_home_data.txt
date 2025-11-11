@@ -1,0 +1,5 @@
+SmartLight:Living Room Main Light:Living Room:true
+SmartLight:Bedroom Lamp:Bedroom:true
+SmartThermostat:Main Thermostat:Living Room:false
+SmartSecurity:Home Security:Entrance:false
+SmartThermostat::hello:false
